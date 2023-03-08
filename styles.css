@@ -48,6 +48,7 @@ h1 {
   font-weight: 700;
   height: 4rem;
   text-align: center;
+  margin: 0 auto;
 }
 #welcome-section > p{
   color: #be3144;
