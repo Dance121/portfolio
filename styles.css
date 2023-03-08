@@ -2,6 +2,7 @@ body{
   font-family: 'Popins', sans-serif;
   margin: 0;
   padding: 0;
+  min-width: 400px;
 }
 
 #navbar {
@@ -48,7 +49,6 @@ h1 {
   font-weight: 700;
   height: 4rem;
   text-align: center;
-  margin: 0 auto;
 }
 #welcome-section > p{
   color: #be3144;
@@ -118,6 +118,9 @@ h2 {
 @media screen and (max-width: 800px) {
   h2 {
     font-size: 2.5rem;
+  }
+  p{
+    font-size: 1rem;
   }
 
 }
